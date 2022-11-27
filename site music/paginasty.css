@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/*parte da header*/
+.sessaoh{
+    width: 100%;
+    height: 25em;
+    background-color: #129799;
+   
+}
+.navega1{
+font-size: 18px;
+font-family: Roboto;
+font-weight: 400;
+letter-spacing: 2px;
+text-align: center;
+color:#F7F7F7;
+display: flex;
+justify-content: flex-start;
+padding-left: 21em;
+
+}
+.tipo1,.tipo2,.tipo3{
+    display: inline-block;
+    padding: 50px;
+    margin-top: 10px;
+}
+h1{
+    color: #F7F7F7;
+    font-size: 56px;
+    font-family: Roboto;
+    display: flex;
+    align-items: left;
+    padding-left: 27px;
+    padding-top: 80px;
+    
+}
+.ondaa{
+    width: 50%;
+    height: 40%;
+    position: absolute;
+    right: 60px;
+    top:6em;
+}
+.navega22{
+width:50em;
+font-size: 21px;
+font-family: Roboto;
+font-weight: 400;
+letter-spacing: 2px;
+color:#F7F7F7;
+display: flex;
+justify-content: space-evenly;
+padding-left:10em ;
+
+}
+.tipo4,.tipo5,.tipo6{
+display:flex;
+align-items: flex-start;
+padding-top: 74px;
+
+}
+
+
+/*Parte da main*/
+
+main{
+    background: #FFA185;
+    width: 100%;
+    height: 55em;
+}
+h2{
+    color: #F7F7F7;
+    font-family: roboto;
+    font-size: 2em;
+    padding-top: 2em;
+    padding-left: 30px;
+}
+.titi2{
+    color:black;
+    font-family: roboto;
+    font-size: 18px;
+    width: 55%;
+    line-height: 30px;
+    padding-left: 30px;
+    padding-top: 1rem;
+
+}
+
+.imagee{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-flow: wrap row;
+    
+}
+.image1{
+    width: 590px;
+    height: 290px;
+    padding-left: 6em;
+    padding-top: 20px;   
+}
+.massi{
+    color:black;
+    font-size: 22px;
+    font-family: Roboto;
+    font-weight: bold;
+    position: absolute;
+    left: 46%;
+    top: 55em;
+}
+
+/*Parte do footer*/
+footer{
+    width: 100%;
+    height: 190px;
+    background-color: #129799;
+}
+
+.redde{
+    width: 30%;
+    height: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: wrap;
+    margin-left: 60px; 
+  
+}
+.rede1{
+   list-style: none;
+   padding-top: 70px;
+}
+
+.ultim{
+width: 60%;
+height: 300px;
+font-family: Roboto;
+font-size: 23px;
+font-weight: 400;
+letter-spacing: 2px;
+text-align: center;
+color:#F7F7F7;
+display: flex;
+justify-content: space-evenly;
+padding-left: 35em;
+
+
+
+}
+.oi1{
+    list-style: none;
+     padding-left: 5em;
+     padding-top: 3em;
+
+}
